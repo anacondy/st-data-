@@ -1,0 +1,383 @@
+SrNo,Region,PostCode,PostName,Department,AgeLimit,PayLevel,ExamLevel,SC,ST,OBC,UR,EWS,Total,ESM,OH,HH,VH,Others
+1,CR,CR10126,Stenographer Grade - II,"National Seed Research & Training Centre, Department of Agriculture & Farmers Welfare Ministry of Agriculture &",18-27,Level 6,Higher Secondary (10+2),0,0,0,2,0,2,0,0,0,0,0
+2,CR,CR10226,Laboratory Attendant,"National Seed Research & Training, Centre, Department of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers",18-27,Level 2,Higher Secondary (10+2),0,0,1,0,0,1,0,0,0,0,0
+3,CR,CR10426,Junior Engineer (Quality,"Assurance), Discipline- Vehicle Directorate General of Quality Assurance (DGQA), Department of Defence",18-30,Level 6,Higher Secondary (10+2),7,1,25,36,1,70,0,0,0,0,0
+4,CR,CR10526,Junior Engineer (Quality,"Assurance), Discipline- Engineering Equipment Directorate General of Quality Assurance (DGQA), Department of Defence",18-30,Level 6,Higher Secondary (10+2),1,1,4,5,0,11,0,0,0,0,0
+5,CR,CR10626,Junior Engineer (Quality,"Assurance), Discipline- Electronics Directorate General of Quality Assurance (DGQA), Department of Defence",18-30,Level 6,Higher Secondary (10+2),9,3,12,46,5,75,0,2,2,0,0
+6,CR,CR10726,Junior Engineer (Quality,"Assurance), Discipline- Metals & Explosives, Sub Discipline- Military Explosives Directorate General of Quality Assurance (DGQA), Department of Defence Production,",18-30,Level 6,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+7,CR,CR10826,Junior Engineer (Quality,"Assurance), Discipline- Metals & Explosives, Sub Discipline- Metallurgy Directorate General of Quality Assurance (DGQA), Department of Defence",18-30,Level 6,Higher Secondary (10+2),2,0,4,5,2,13,0,1,0,0,0
+8,CR,CR10926,Junior Engineer (Quality,"Assurance), Discipline- Armament, Sub Discipline- Weapons Directorate General of Quality Assurance (DGQA), Department of Defence",18-30,Level 6,Higher Secondary (10+2),0,0,4,8,0,12,0,0,0,0,0
+9,CR,CR11026,Junior Engineer (Quality,"Assurance), Discipline- Armament, Sub Discipline- Small Arms Directorate General of Quality Assurance (DGQA), Department of Defence",18-30,Level 6,Higher Secondary (10+2),1,2,2,4,1,10,0,0,0,0,0
+10,CR,CR11126,Junior Engineer (Quality,"Assurance), Discipline- Armament, Sub Discipline- Instruments Directorate General of Quality Assurance (DGQA), Department of Defence",18-30,Level 6,Higher Secondary (10+2),3,1,5,9,1,19,0,0,0,0,0
+11,CR,CR11226,Junior Engineer (Quality,"Assurance), Discipline- Armament, Sub Discipline- Ammunition Directorate General of Quality Assurance (DGQA), Department of Defence",18-30,Level 6,Higher Secondary (10+2),3,2,8,6,0,19,0,0,0,0,0
+12,CR,CR11326,"Junior Engineer,","Discipline- Store, Sub Discipline- Gentex Directorate General of Quality Assurance (DGQA), Department of Defence",18-30,Level 6,Higher Secondary (10+2),1,1,2,3,1,8,0,0,0,0,0
+13,CR,CR11426,Scientific Assistant,"Discipline- Metals & Explosives, Sub discipline- Military Explosives Directorate General of Quality Assurance (DGQA), Department of Defence",18-30,Level 6,Higher Secondary (10+2),3,1,6,9,1,20,0,0,0,0,0
+14,CR,CR11526,"Scientific Assistant,","Discipline- Metals & Explosives, Sub discipline- Metallurgy Directorate General of Quality Assurance (DGQA), Department of Defence",18-30,Level 6,Higher Secondary (10+2),1,0,1,1,0,3,0,0,1,0,0
+15,CR,CR11626,Scientific Assistant,"Discipline- Store, Sub discipline- Chemistry Directorate General of Quality Assurance (DGQA), Department of Defence",18-30,Level 6,Higher Secondary (10+2),0,1,0,3,1,5,0,1,0,0,0
+16,CR,CR11726,"Scientific Assistant ,","Discipline- Store, Sub discipline- Gentex Directorate General of Quality Assurance (DGQA), Department of Defence",18-30,Level 6,Higher Secondary (10+2),2,1,3,2,1,9,0,0,0,0,0
+17,CR,CR11826,Scientific Assistant Discipline- Vehicle,"Directorate General of Quality Assurance (DGQA), Department of Defence",18-30,Level 6,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+18,CR,CR11926,Drilling Assistant Grade I,"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,2,0,2,0,0,0,0,0
+19,CR,CR12026,Laboratory Assistant Grade I (Geology),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+20,CR,CR12126,Lab. Assistant Grade III (Geology),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,1,3,0,4,0,0,0,0,0
+21,CR,CR12226,Lab. Assistant (Geophysics) Grade III,"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,2,0,2,0,0,0,0,0
+22,CR,CR12326,Stenographer Grade - II,"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,3,0,3,0,0,0,0,0
+23,CR,CR12426,Store Clerk,"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,2,0,2,0,0,0,0,0
+24,CR,CR12526,Accountant,"Geological Survey of India, Ministry of Mines",,,,0,0,0,1,0,1,0,0,0,0,0
+25,CR,CR12626,Store Attendant,"Geological Survey of India, Ministry of Mines",,,,0,0,0,1,0,1,0,0,0,0,0
+26,CR,CR12726,Research Assistant,"National Centre for Vector Borne Diseases Control, Directorate General of Health Services (DGHS), Department of Health and",18-30,Level 6,Graduation & Above,0,1,0,0,0,1,0,0,0,0,0
+27,CR,CR12826,Senior Scientific Assistant (Physics),"National Research Laboratory for Conservation of Cultural Property (NRLC), Ministry of Culture",18-30,Level 6,Graduation & Above,0,1,0,0,0,1,0,0,0,0,0
+28,CR,CR12926,Library and Information Assistant,"National Research Laboratory for Conservation of Cultural Property (NRLC), Ministry of Culture",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+29,CR,CR13026,Scientific Assistant,"Central Water Commission, Department of Water Resources, River Development and Ganga",18-30,Level 6,Graduation & Above,1,1,5,3,2,12,0,1,0,0,0
+30,CR,CR13126,Library Attendant,"Central Soil and Materials Research Station (CSMRS), Department of Water Resources, River Development and Ganga",18-27,Level 1,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+31,CR,CR13226,Mechanic,"Central Soil and Materials Research Station (CSMRS), Department of Water Resources, River Development and Ganga",18-27,Level 1,Matriculation (10th),0,0,1,0,0,1,0,0,0,0,0
+32,CR,CR13326,Field-cum-Laboratory Attendant,"National Centre for Organic and Natural Farming , Department of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers",18-25,Level 1,Matriculation (10th),0,1,0,0,0,1,0,0,0,0,0
+33,CR,CR13426,Senior Research Assistant,"Central Water Commission, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,2,2,1,8,0,13,0,0,0,0,0
+34,CR,CR13526,Senior Scientific Assistant (Explosives),"Central Forensic Science Laboratory, Directorate of Forensic Science Services,",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+35,CR,CR13626,Senior Scientific Assistant (Chemistry),"Central Forensic Science Laboratory, Directorate of Forensic Science Services,",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+36,CR,CR13726,Laboratory Attendant,"Central Forensic Science Laboratory, Directorate of Forensic Science Services,",18-27,Level 1,Matriculation (10th),0,0,1,1,1,3,1,0,0,0,0
+37,CR,CR13826,Junior Engineer,"Central Silk Board, Ministry of Textiles",,,Higher Secondary (10+2),0,0,0,2,0,2,0,0,0,0,0
+38,CR,CR13926,"Store Keeper, Grade-II","Central Soil and Materials Research Station, Department of Water Resources, River Development and Ganga",18-27,Level 4,Higher Secondary (10+2),0,0,1,0,0,1,0,0,0,0,0
+39,ER,ER10126,Library and Information Assistant,"Botanical Survey of India, Ministry of Environment &",18-30,Level 6,Graduation & Above,0,1,1,1,0,3,0,0,0,0,0
+40,ER,ER10226,Preservation Assistantcum-Garden Overseer,"Botanical Survey of India, Ministry of Environment &",18-27,Level 4,Graduation & Above,1,1,1,0,0,3,0,0,0,0,0
+41,ER,ER10326,Senior Preservation Assistant,"Botanical Survey of India, Ministry of Environment &",18-27,Level 5,Graduation & Above,0,0,0,6,0,6,0,0,0,0,0
+42,ER,ER10426,Technical Assistant,"Botanical Survey of India, Ministry of Environment &",18-30,Level 6,Graduation & Above,0,0,1,3,0,4,0,0,0,0,0
+43,ER,ER10526,Botanical Assistant,"Botanical Survey of India, Ministry of Environment &",18-30,Level 6,Graduation & Above,0,0,1,0,0,1,0,0,0,0,0
+44,ER,ER10626,Laboratory Assistant,"Central Forensic Science Laboratory, Directorate of Forensic Science Services,",18-27,Level 5,Graduation & Above,0,0,0,3,0,3,0,0,1,0,0
+45,ER,ER10726,Senior Scientific Assistant (Biology),"Central Forensic Science Laboratory, Directorate of Forensic Science Services,",18-30,Level 6,Graduation & Above,0,0,0,2,0,2,0,0,0,0,0
+46,ER,ER10826,Senior Scientific Assistant (Chemistry),"Central Forensic Science Laboratory, Directorate of Forensic Science Services,",18-30,Level 6,Graduation & Above,0,0,1,0,0,1,0,0,0,0,0
+47,ER,ER10926,Laboratory Attendant,"Central Forensic Science Laboratory, Directorate of Forensic Science Services,",18-27,Level 1,Matriculation (10th),0,0,1,0,0,1,0,0,0,0,0
+48,ER,ER11126,Stenographer (Grade-I),"Central Silk Board, Ministry of Textiles",,,,0,0,0,2,0,2,0,0,0,0,0
+49,ER,ER11326,Field Assistant,"Central Silk Board, Ministry of Textiles",,,,1,1,1,2,0,5,0,0,0,0,0
+50,ER,ER11426,Scientific Assistant,Directorate General of,22-28,Level 5,Graduation & Above,0,1,0,1,0,2,0,0,0,0,0
+51,ER,ER11526,Mechanic (Electric cum,"Laboratory Equipment) Directorate of Plant Protection, Quarantine & Storage, Department of Agriculture & Farmers Welfare, Ministry of",18-25,Level 4,Higher Secondary (10+2),0,0,1,1,0,2,0,0,0,0,0
+52,ER,ER11626,Draftsman (Junior),"FOREST SURVEY OF INDIA, Ministry of Environment &",18-28,Level 6,Higher Secondary (10+2),1,0,0,0,0,1,0,0,1,0,0
+53,ER,ER11726,Fieldman,"FOREST SURVEY OF INDIA, Ministry of Environment &",18-27,Level 2,Higher Secondary (10+2),3,0,0,6,0,9,0,0,0,0,0
+54,ER,ER11826,Deputy Ranger,"FOREST SURVEY OF INDIA, Ministry of Environment &",18-27,Level 4,Higher Secondary (10+2),0,0,0,6,1,7,0,0,0,0,0
+55,ER,ER11926,Lab. Assistant Gr. III (Geophysics),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,2,0,2,0,0,0,0,0
+56,ER,ER12026,Junior Technical Assistant (Geology),"Geological Survey of India, Ministry of Mines",,,,2,0,3,8,0,13,0,0,1,1,0
+57,ER,ER12126,Junior Technical Assistant (Geophysics),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,1,0,1,0,1,0,0,0
+58,ER,ER12226,Drilling Assistant Grade II,"Geological Survey of India,",18-25,Level 3,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+59,ER,ER12326,Drilling Assistant Grade I,"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+60,ER,ER12426,Technical Operator,,18-25,Level 2,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+61,ER,ER12526,Laboratory Assistant Grade III (Chemical),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+62,ER,ER12626,Lab. Assistant Gr. III (Geology),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,3,0,3,0,0,0,0,0
+63,ER,ER12726,Junior Technical Assistant (Drilling),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),2,1,6,16,0,25,0,0,0,0,0
+64,ER,ER12826,Personal Assistant,"Geological Survey of India, Ministry of Mines",,,,3,1,9,36,2,51,0,2,0,1,1
+65,ER,ER12926,Accountant,"Geological Survey of India, Ministry of Mines",,,,0,0,0,1,0,1,0,0,0,0,0
+66,ER,ER13026,Lab Assistant Gr.I (Geophysics),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+67,ER,ER13126,Stores Clerk,"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,4,1,5,0,0,0,0,0
+68,ER,ER13226,Store Attendant,"Geological Survey of India, Ministry of Mines",,,,0,0,1,1,1,3,0,0,0,0,0
+69,ER,ER13326,Store Keeper-cumCaretaker,"National Museum of Natural History, Ministry of Environment & Forests and Climate Change",18-25,Level 4,Higher Secondary (10+2),0,0,1,0,0,1,0,0,0,0,0
+70,ER,ER13426,Laboratory Assistant,"National Test House, Department of Consumer Affairs, Ministry of",18-25,Level 3,Higher Secondary (10+2),0,0,1,1,0,2,0,0,0,0,0
+71,ER,ER13526,Artist Grade I,"Zoological Survey of India , Ministry of Environment &",18-30,Level 6,Graduation & Above,4,1,6,11,0,22,0,0,0,0,1
+72,ER,ER13626,Taxidermist Grade III,"Zoological Survey of India , Ministry of Environment &",18-27,Level 5,Higher Secondary (10+2),1,0,2,5,1,9,0,0,0,0,0
+73,ER,ER13726,Field Collector,"Zoological Survey of India , Ministry of Environment &",18-27,Level 3,Higher Secondary (10+2),2,1,4,9,1,17,1,0,1,0,0
+74,ER,ER13826,Motor Driver (Ordinary Grade),"Zoological Survey of India , Ministry of Environment &",18-25,Level 2,Matriculation (10th),1,0,0,0,0,1,0,0,0,0,0
+75,ER,ER13926,Senior Zoological Assistant,"Zoological Survey of India , Ministry of Environment &",18-30,Level 6,Graduation & Above,1,2,2,4,1,10,0,0,0,0,1
+76,ER,ER14026,Field Attendant (with Multi-tasking),"Zoological Survey of India , Ministry of Environment &",18-25,Level 1,Matriculation (10th),1,1,2,9,0,13,1,0,0,0,0
+77,ER,ER14126,Photographer Grade III,"Zoological Survey of India , Ministry of Environment &",18-25,Level 4,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+78,ER,ER14226,Office Attendant (MultiTasking Staff),"Zoological Survey of India , Ministry of Environment &",18-25,Level 1,Matriculation (10th),2,1,5,7,1,16,1,0,0,0,1
+79,ER,ER14326,Senior Draughtsman,"Farakka Barrage Project, Department of Water Resources, River Development and Ganga",18-30,Level 6,Higher Secondary (10+2),1,0,1,0,0,2,0,0,0,0,0
+80,ER,ER14426,Field-cum-Laboratory Attendant,"National Centre for Organic and Natural Farming , Department of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers",18-25,Level 1,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+81,ER,ER14526,Accountant,"Natural Centre for Organic and Natural Farming , Department of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers",18-27,Level 5,Graduation & Above,1,0,0,0,0,1,0,0,0,0,0
+82,KKR,KK10126,PROCESSING CUM,"QUALITY ASSURANCE SUPERVISOR National Institute of Fisheries Post Harvest Technology and Training , Department of Fisheries, Ministry of Fisheries,",18-30,Level 6,Graduation & Above,1,0,0,2,0,3,0,0,0,0,0
+83,KKR,KK10226,STENOGRAPHER,,18-30,Level 6,Graduation & Above,1,0,1,3,0,5,0,0,0,0,0
+84,KKR,KK10326,SENIOR TECHNICAL ASSISTANT (CHEMICAL),"Central Ground Water Board, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,0,0,2,1,0,3,0,0,0,0,0
+85,KKR,KK10426,SENIOR TECHNICAL,"ASSISTANT(HYDROGEOL OGY) Central Ground Water Board, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+86,KKR,KK10526,MARKETING ASSISTANT,"National Institute of Fisheries Post Harvest Technology and Training , Department of Fisheries, Ministry of Fisheries,",18-30,Level 6,Graduation & Above,0,0,0,1,1,2,0,0,0,0,0
+87,KKR,KK10626,ASSISTANT,SUPERINTENDENT,18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+88,KKR,KK10726,SENIOR ARTIST,"Central Silk Board, Ministry of Textiles",,,,0,0,0,1,0,1,0,0,0,0,0
+89,KKR,KK10826,ASSISTANT,SUPERINTENDENT,18-30,Level 6,Graduation & Above,2,0,1,3,1,7,0,0,1,0,0
+90,KKR,KK10926,STENOGRAPHER,,18-25,Level 4,Graduation & Above,0,0,0,1,1,2,0,0,0,0,0
+91,KKR,KK11026,INSTRUCTOR (ELECTRONICS),"Central Institute of Fisheries, Nautical and Engg. Training, Department of Fisheries, Ministry of Fisheries, Animal Husbandry and Dairying",18-30,Level 6,Graduation & Above,1,0,0,0,0,1,0,0,0,0,0
+92,KKR,KK11226,ACCOUNTANT,"National Centre For Organic And Natural Farming, Department of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers",18-27,Level 5,Graduation & Above,0,0,0,1,0,1,1,0,0,0,0
+93,KKR,KK11326,DEPUTY RANGER,"Forest Survey of India, Ministry of Environment &",18-27,Level 4,Higher Secondary (10+2),1,0,1,6,1,9,0,0,0,0,0
+94,KKR,KK11426,AGRICULTURE ASSISTANT,"Central Cattle Breeding Farm Hessaraghatta, Department of Animal Husbandry and Dairying, Ministry of Fisheries,",18-28,Level 5,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+95,KKR,KK11526,INSPECTOR (SILK),"Central Silk Board, Ministry of Textiles",,,Higher Secondary (10+2),0,0,0,2,0,2,0,0,0,0,0
+96,KKR,KK11626,JUNIOR ENGINEER,"Central Silk Board, Ministry of Textiles",,,Higher Secondary (10+2),1,0,1,1,1,4,0,0,1,0,0
+97,KKR,KK11726,LABORATORY ASSISTANT,"National Centre For Organic And Natural Farming , Dept. of Agriculture & Farmers",18-25,Level 2,Higher Secondary (10+2),0,0,1,0,0,1,0,0,0,0,0
+98,KKR,KK11826,LABORATORY ASSISTANT,"Central Frozen Semen Production Training Institute, Centre Of Excellence For Animal Husbandry , Dept. of Animal Husbandry and Dairying, Ministry of Fisheries,",18-27,Level 2,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+99,KKR,KK11926,LABORATORY ATTENDANT,"Central Ground Water Board, Department of Water Resources, River Development and Ganga",18-27,Level 1,Matriculation (10th),1,0,3,7,2,13,0,0,1,0,0
+100,KKR,KK12026,FIELD ASSISTANT,"Central Institute of Coastal Engineering for Fishery, Department of Fisheries, Ministry of Fisheries,",18-25,Level 2,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+101,KKR,KK12126,STENOGRAPHER,"(GRADE-III) Petroleum And Explosives Safety Organisation, O/o Chief Controller of Explosives, Department for Promotion of Industry and",18-25,Level 4,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+102,KKR,KK12226,LOWER DIVISION CLERK,"Petroleum And Explosives Safety Organisation, O/o Chief Controller of Explosives, Nagpur , Dept. for Promotion of Industry and Internal Trade, M/o",18-25,Level 2,Matriculation (10th),1,0,0,1,1,3,0,0,0,0,0
+103,KKR,KK12326,LABORATORY ATTENDANT,"Regional Museum Of Natural History, National Museum of Natural History, Ministry of Environment &",18-25,Level 1,Matriculation (10th),1,0,0,0,0,1,0,0,0,0,0
+104,KKR,KK12426,DRILLER,"Central Institute of Coastal Engineering for Fishery, Department of Fisheries, Ministry of Fisheries,",18-25,Level 4,Matriculation (10th),0,0,1,1,0,2,0,0,0,0,0
+105,KKR,KK12526,FIELD ASSISTANT,"Central Silk Board, Ministry of Textiles",,,,1,0,1,2,1,5,1,0,1,0,0
+106,KKR,KK12626,LABORATORY ATTENDANT,"Centre of Excellence for Animal Husbandry Central & Poultry Development Organisation, Department of Animal Husbandry and Dairying, Ministry of Fisheries, Animal Husbandry and Dairying",18-27,Level 1,Matriculation (10th),1,0,0,0,0,1,0,0,0,0,0
+107,KKR,KK12726,LABORATORY ATTENDANT,"Central Frozen Semen Production Training Institute, Centre of Excellence for Animal Husbandry , Department of Animal Husbandry and Dairying, Ministry of Fisheries,",18-27,Level 1,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+108,KKR,KK12826,PROOF READER,Department of Official,18-27,Level 5,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+109,KKR,KK12926,ASSISTANT (LEGAL),"Legislative Department, Ministry of Law & Justice",,,,1,0,1,2,1,5,0,0,0,1,0
+110,KKR,KK13026,ASSISTANT (PRINTING),"Legislative Department, Ministry of Law & Justice",,,,0,0,1,1,0,2,0,0,0,0,0
+111,KKR,KK13126,RESEARCH ASSISTANT,"Intelligence Bureau, Ministry of Home Affairs",,,,0,0,0,1,0,1,0,1,0,0,0
+112,KKR,KK13226,COPY HOLDER,"Legislative Department, Ministry of Law & Justice",,,Higher Secondary (10+2),0,0,1,1,0,2,0,0,1,0,0
+113,KKR,KK13326,COPY HOLDER,"Official Languages Wing, Legislative Department,",18-27,Level 2,Higher Secondary (10+2),1,0,0,0,0,1,0,0,0,0,0
+114,KKR,KK13426,SENIOR TECHNICAL ASSISTANT (PRINTING),Office of the Registrar,18-30,Level 6,Higher Secondary (10+2),1,0,2,7,1,11,0,0,0,1,0
+115,KKR,KK13526,JUNIOR TECHNICAL OFFICER,National Crime Records,18-30,Level 6,Higher Secondary (10+2),3,1,2,8,3,17,0,0,0,0,0
+116,KKR,KK13626,STORE KEEPER GRADE-I,"Central Forensic Science Laboratory, Directorate of Forensic Science Services,",18-25,Level 4,Higher Secondary (10+2),0,0,0,1,0,1,0,1,0,0,0
+117,KKR,KK13726,SURVEYOR,"Survey Of India , Department of Science and Technology, Ministry of",18-30,Level 6,Graduation & Above,29,14,53,81,20,197,0,2,3,0,3
+118,KKR,KK13826,LOWER DIVISION CLERK,"Petroleum And Explosives Safety Organisation, O/O Joint Chief Controller Of Explosives, Department for Promotion of Industry and",18-25,Level 2,Matriculation (10th),0,0,2,1,0,3,1,0,0,0,0
+119,KKR,KK13926,SENIOR SCIENTIFIC ASSISTANT (PHYSICS),"Central Forensic Science Laboratory, Directorate of Forensic Science Services,",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+120,KKR,KK14026,NURSING ORDERLY,Regional Leprosy Training And Research Institute,18-27,Level 1,Matriculation (10th),0,1,0,0,0,1,0,0,0,0,0
+121,KKR,KK14126,INSECT COLLECTOR,"National Centre For Disease Control, Directorate General of Health Services, Ministry of Health & Family Welfare",18-27,Level 2,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+122,KKR,KK14226,LABORATORY ATTENDANT,"National Centre For Disease Control , Directorate General of Health Services,",18-25,Level 1,Matriculation (10th),2,0,1,1,1,5,1,0,0,0,0
+123,KKR,KK14326,LABORATORY ASSISTANT,"National Centre For Disease Control, Directorate General of Health Services, Ministry of Health & Family Welfare",18-25,Level 4,Graduation & Above,0,0,2,0,0,2,0,0,0,0,0
+124,MPR,MP10126,Library Clerk,"National Medical Library , Directorate General of",18-25,Level 2,Higher Secondary (10+2),0,0,1,0,0,1,0,0,0,0,0
+125,MPR,MP10226,Pharmacist-Cum-Clerk,"Directorate General of Health Services, Government Medical Store",21-28,Level 5,Higher Secondary (10+2),0,1,1,3,0,5,0,0,0,0,0
+126,MPR,MP10326,Field Assistant (Iodine Deficiency Disorder),"Directorate General of Health Services, Dept. of Health and Family Welfare,",18-25,Level 3,Higher Secondary (10+2),0,0,1,1,0,2,0,0,0,0,0
+127,MPR,MP10426,Operation Theatre Technician,"Central Government Health Scheme (CGHS) (HQ), Department of Health and",20-25,Level 4,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+128,MPR,MP10526,Pharmacist (Allopathic),"Central Government Health Scheme (CGHS), Dept. of Health and Family Welfare, Ministry of Health & Family Welfare",18-27,Level 5,Graduation & Above,15,2,9,32,10,68,10,3,1,0,0
+129,MPR,MP10626,Medical Attendant,"Central Government Health Scheme(CGHS), Dept. of Health and Family Welfare, Ministry of Health & Family Welfare",18-25,Level 1,Matriculation (10th),18,18,55,115,29,235,10,3,3,5,1
+130,MPR,MP10726,Nursing Officer,"Central Government Health Scheme(CGHS), Dept. of Health and Family Welfare,",18-30,Level 7,Higher Secondary (10+2),14,8,24,49,12,107,0,2,0,0,1
+131,MPR,MP10826,Ayurvedic Pharmacist,"Central Government Health Scheme(CGHS), Department of Health and Family Welfare, Ministry of Health & Family Welfare",20-30,Level 5,Higher Secondary (10+2),3,4,10,20,1,38,1,0,1,0,0
+132,MPR,MP10926,Lady Medical Attendant,"Central Government Health Scheme(CGHS), Department of Health and Family Welfare, Ministry of Health & Family Welfare",18-25,Level 1,Matriculation (10th),7,4,24,39,12,86,1,1,1,2,0
+133,MPR,MP11026,Pharmacist-cum-clerk (Homoeopathic),"Central Government Health Scheme(CGHS), Department of Health and Family Welfare, Ministry of Health & Family Welfare",18-25,Level 5,Higher Secondary (10+2),0,0,0,10,0,10,0,0,0,0,0
+134,MPR,MP11126,Junior Medical Laboratory Technologist,"Central Government Health Scheme(CGHS), Department of Health and Family Welfare, Ministry of Health & Family Welfare",18-27,Level 5,Higher Secondary (10+2),0,0,0,2,0,2,0,0,1,0,0
+135,MPR,MP11226,Lady Health Visitor,"Central Government Health Scheme(CGHS), Department of Health and Family Welfare, Ministry of Health & Family Welfare",18-25,Level 4,Higher Secondary (10+2),0,1,1,8,1,11,0,0,0,0,0
+136,MPR,MP11326,Radiographer/X-ray Technician,"Central Government Health Scheme(CGHS), Department of Health and Family Welfare, Ministry of Health & Family Welfare",18-30,Level 6,Higher Secondary (10+2),0,0,0,3,1,4,0,0,0,0,0
+137,MPR,MP11426,Panchkarma Therapist,"Central Government Health Scheme(CGHS), Department of Health and Family Welfare, Ministry of Health & Family Welfare",18-25,Level 4,Higher Secondary (10+2),0,0,1,2,0,3,0,0,0,0,0
+138,MPR,MP11526,Auxiliary Nurse Midwife,"Central Government Health Scheme(CGHS), Department of Health and Family Welfare, Ministry of Health & Family Welfare",18-30,Level 4,Higher Secondary (10+2),1,0,0,2,0,3,0,0,0,0,0
+139,MPR,MP11626,ECG Technician (Junior),"Central Government Health Scheme(CGHS), Department of Health and Family Welfare, Ministry of Health & Family Welfare",18-25,Level 5,Higher Secondary (10+2),0,0,0,6,1,7,0,0,0,0,0
+140,MPR,MP11726,Dental Technician,"Central Government Health Scheme(CGHS), Department of Health and Family Welfare, Ministry of Health & Family Welfare",18-25,Level 5,Higher Secondary (10+2),0,0,2,6,0,8,1,0,0,0,0
+141,MPR,MP11826,X-Ray Technician,"Chittranjan Avenue, All India Institute of Hygiene and Public Health , Directorate General of Health Services,",18-30,Level 6,Higher Secondary (10+2),0,0,1,1,0,2,0,0,0,0,0
+142,MPR,MP11926,Demonstrator,"(Biochemistry and Nutrition) All India Institute of Hygiene and Public Health , Directorate General of",18-35,Level 7,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+143,MPR,MP12026,Assistant cine- Technician,"All India Institute of Hygiene and Public Health , Directorate General of",18-27,Level 2,Higher Secondary (10+2),0,0,1,1,0,2,0,0,0,0,0
+144,MPR,MP12126,Caretaker,"All India Institute of Hygiene and Public Health , Directorate General of",18-27,Level 2,Higher Secondary (10+2),0,0,1,1,0,2,0,0,0,0,0
+145,MPR,MP12226,Health Worker (Female),"All India Institute of Hygiene and Public Health , Directorate General of",18-27,Level 2,Higher Secondary (10+2),0,0,1,1,0,2,0,0,0,0,0
+146,MPR,MP12326,Junior Pharmacist,"RLTRI, Directorate General of Health Services, Ministry of Health & Family Welfare",,,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+147,MPR,MP12426,Tailor,"RLTRI, Directorate General of Health Services, Ministry of Health & Family Welfare",,,,0,0,0,1,0,1,0,0,0,0,0
+148,MPR,MP12526,Workshop Assistant,"All India Institute of Hygiene and Public Health , Directorate General of",18-27,Level 2,Matriculation (10th),0,0,1,1,0,2,0,0,0,0,0
+149,MPR,MP12626,Health Assistant (Male),"All India Institute of Hygiene and Public Health , Directorate General of",18-27,Level 4,Higher Secondary (10+2),0,0,1,3,0,4,0,0,0,1,0
+150,MPR,MP12726,Pharmacist-cum-Clerk,"Government Medical Store Depot, Directorate General of Health Services, Ministry of Health & Family Welfare",21-28,Level 5,Higher Secondary (10+2),0,0,1,2,0,3,0,0,0,0,0
+151,MPR,MP12826,Draftsman,"All India Institute of Hygiene and Public Health , Directorate General of",18-27,Level 4,Higher Secondary (10+2),0,0,1,0,0,1,0,0,0,0,0
+152,MPR,MP12926,Cook,"Central Institute of Psychiatry, Directorate General of Health Services,",18-25,Level 2,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+153,MPR,MP13026,Tailor,"Central Institute of Psychiatry, Directorate General of Health Services,",18-25,Level 2,Matriculation (10th),1,0,0,0,0,1,0,0,0,0,0
+154,MPR,MP13126,Staff Car Driver (ordinary grade),"Central Institute of Psychiatry, Directorate General of Health Services,",18-25,Level 2,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+155,MPR,MP13226,Staff Car Driver (Ordinary Grade),"RLTRI, Directorate General of Health Services, Ministry of Health & Family Welfare",,,,1,0,0,1,1,3,0,0,0,0,0
+156,MPR,MP13326,Junior Laboratory Assistant,"Central Drug Laboratory, Directorate General of",18-25,Level 4,Higher Secondary (10+2),1,0,2,5,0,8,0,0,0,0,0
+157,MPR,MP13426,Public Health Nursing Officer,"All India Institute of Hygiene and Public Health , Directorate General of",18-30,Level 8,Graduation & Above,0,0,1,2,0,3,0,0,0,0,0
+158,MPR,MP13526,Nursing Officer,"All India Institute of Hygiene and Public Health , Directorate General of",18-25,Level 7,Matriculation (10th),0,1,1,6,0,8,0,0,0,0,0
+159,MPR,MP13626,Ward Attendants (Male and Female),"Central Institute of Psychiatry, Directorate General of Health Services,",18-27,Level 1,Matriculation (10th),14,7,25,49,10,105,10,1,1,1,1
+160,MPR,MP13726,Medical Social Welfare Officer,"All India Institute of Hygiene and Public Health , Directorate General of",18-25,Level 6,Higher Secondary (10+2),0,0,1,1,0,2,0,0,0,0,0
+161,MPR,MP13826,Technician,"National Centre for Disease Control, Directorate General of Health Services, Ministry of Health & Family Welfare",18-25,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+162,MPR,MP13926,Insect Collector,"National Centre for Disease Control, Directorate General of Health Services, Ministry of Health & Family Welfare",18-27,Level 2,Higher Secondary (10+2),0,0,0,3,0,3,0,0,0,0,0
+163,MPR,MP14026,Junior Engineer,"Central Ground Water Board, Central Ground Water Board, Department of Water Resources, River Development and Ganga",18-30,Level 6,Higher Secondary (10+2),0,0,0,3,1,4,0,0,0,0,0
+164,NER,NE10126,LIBRARIAN,"Central Academy For State Forest Services , Ministry of",18-27,Level 4,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+165,NER,NE10226,JUNIOR ENGINEER,"Central Silk Board , Ministry of Textiles",18-30,Level 6,Higher Secondary (10+2),0,1,0,1,0,2,0,0,0,0,0
+166,NER,NE10326,FIELD ASSISTANT,"Central Silk Board , Ministry of Textiles",18-25,Level 3,Matriculation (10th),0,0,1,1,0,2,0,0,0,0,0
+167,NER,NE10426,PHARMACIST CUM CLERK,"Government Medical Store Depot, Directorate General of Health Services, Ministry of Health & Family Welfare",21-28,Level 5,Higher Secondary (10+2),0,0,0,3,0,3,0,0,0,0,0
+168,NER,NE10526,LABORATORY ATTENDANT,"Central Forensic Science Laboratory, Directorate of Forensic Science Services,",18-27,Level 1,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+169,NER,NE10626,Drilling Assistant Gr-I,"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,3,0,3,0,0,0,0,0
+170,NER,NE10726,DRILLING ASSISTANT GR-,,18-25,Level 3,Matriculation (10th),0,0,0,3,0,3,0,0,0,0,0
+171,NER,NE10826,JUNIOR TECHNICAL ASSISTANT (CHEMICAL),"Geological Survey of India, Ministry of Mines",,,,0,0,0,2,0,2,0,0,0,0,0
+172,NER,NE10926,JUNIOR TECHNICAL ASSISTANT (GEOLOGY),"Geological Survey of India, Ministry of Mines",,,,0,1,1,3,0,5,0,1,0,0,0
+173,NER,NE11026,JUNIOR TECHNICAL,ASSISTANT,18-30,Level 6,Higher Secondary (10+2),0,0,0,2,0,2,0,0,0,0,0
+174,NER,NE11126,LAB. ASSISTANT GR-III (CHEMICAL),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+175,NER,NE11226,LAB. ASSISTANT GR-III (GEOLOGY),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,2,0,2,0,0,0,0,0
+176,NER,NE11326,STORE ATTENDANT,"Geological Survey of India, Ministry of Mines",,,,0,0,0,1,0,1,0,0,0,0,0
+177,NER,NE11426,TECHNICAL OPERATOR (DRILLING),"Geological Survey of India, Ministry of Mines",,,,0,1,1,3,1,6,0,0,0,0,0
+178,NER,NE11526,Vocational Instructor,"(Except Women Training)- Welder Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,1,0,3,8,1,13,0,1,0,0,0
+179,NER,NE11626,Vocational Instructor,"(Except Women Training)- Wood Work Technician (old nomenclature Carpenter) or Pattern Maker Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,1,1,1,0,0,3,0,0,0,0,0
+180,NER,NE11726,Vocational Instructor (Except Women,"Training)- Fitter Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,4,2,6,11,2,25,0,0,0,0,1
+181,NER,NE11826,Vocational Instructor,"(Except Women Training)- Mechanic Refrigeration & Air Conditioning Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,1,0,2,2,1,6,0,0,0,0,0
+182,NER,NE11926,Vocational Instructor,"(Except Women Training)- Sheet Metal Worker Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+183,NER,NE12026,Vocational Instructor,"(Except Women Training)- Moulder or Foundry man Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,0,0,1,0,1,2,0,0,0,0,0
+184,NER,NE12126,Vocational Instructor,"(Except Women Training)- (Motor Mechanic Vehicle or Motor Driving Mechanic) Directorate General of Training (DGT), Ministry of Skill Development and Entrepreneurship",18-30,Level 6,Graduation & Above,2,1,4,5,1,13,0,0,0,1,0
+185,NER,NE12226,Vocational Instructor,"(Except Women Training)- (Mechanic Diesel) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,1,1,1,3,0,6,0,0,0,0,0
+186,NER,NE12326,Vocational Instructor,"(Except Women Training)- (Mechanic Tractor) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,0,0,0,0,1,1,0,0,0,0,0
+187,NER,NE12426,Vocational Instructor,"(Except Women Training)- Draughtsman (Mechanical) or Engineering Drawing or Drawing and Arithmetic Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,2,1,4,5,0,12,0,0,0,0,0
+188,NER,NE12526,Vocational Instructor,"(Except Women Training)- Draughtsman (Civil) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,0,0,1,2,1,4,0,0,1,0,0
+189,NER,NE12626,Vocational Instructor,"(Except Women Training)-workshop Calculation and Science Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,3,1,3,4,2,13,0,0,0,0,0
+190,NER,NE12726,Vocational Instructor,"(Except Women Training)-(Instrument Mechanic) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,0,0,1,1,0,2,0,0,0,0,0
+191,NER,NE12826,Vocational Instructor,"(Except Women Training)-( Tool and Die maker) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+192,NER,NE12926,Vocational Instructor,"(Except Women Training)-( Maintenance Millwright or Mechanic Machine Tool Maintenance) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,0,0,1,1,0,2,0,0,0,0,0
+193,NER,NE13026,Vocational Instructor,"(Except Women Training)-( Machinist Grinder) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+194,NER,NE13126,Vocational Instructor,"(Except Women Training)-(Turner) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,2,1,3,3,1,10,0,1,0,0,0
+195,NER,NE13226,Vocational Instructor,"(Except Women Training)-(Machinist) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,1,1,3,5,1,11,0,0,0,0,0
+196,NER,NE13326,Vocational Instructor,"(Except Women Training)-(Attendant Operator Chemical Plant) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,1,0,0,0,0,1,0,0,0,0,0
+197,NER,NE13426,Vocational Instructor,"(Except Women Training)-(Maintenance Mechanic Chemical Plant) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+198,NER,NE13526,Vocational Instructor,"(Except Women Training)-(Instrument Mechanic Chemical Plant) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+199,NER,NE13626,Vocational Instructor,"(Except Women Training)-Laboratory Assistant Chemical Plant) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,0,0,1,0,0,1,0,0,0,0,0
+200,NER,NE13726,Vocational Instructor (Except Women,"Training)-Cutting and Tailoring or Sewing Technology) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,0,0,0,2,1,3,0,0,0,0,0
+201,NER,NE13826,Vocational Instructor,"(Except Women Training)-(Computer Operator and Programming Assistant) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,2,1,4,5,1,13,0,0,0,0,1
+202,NER,NE13926,Vocational Instructor (Except Women,"Training)-(Solar Technician) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,1,1,2,2,1,7,0,0,0,0,0
+203,NER,NE14026,Vocational Instructor,"(Except Women Training)-(Computer Hardware and Network Maintenance) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,1,0,1,1,0,3,0,0,0,0,0
+204,NER,NE14126,Vocational Instructor (Except Women,"Training)-(Technician Mechatronics) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,0,0,0,2,0,2,0,0,0,0,0
+205,NER,NE14226,Vocational Instructor (Except Women,"Training)-(Internet of Things ( Smart Healthcare or Smart Agriculture or Smart City) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,0,1,1,1,0,3,0,0,0,1,0
+206,NER,NE14326,Vocational Instructor,"(Except Women Training)-(Electrician or Maintenance Electrician) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,4,1,7,10,3,25,0,0,1,0,0
+207,NER,NE14426,Vocational Instructor,"(Except Women Training)-(Electronics or Electronics Mechanic) Directorate General of Training (DGT), Ministry of",18-30,Level 6,Graduation & Above,3,2,3,3,2,13,0,0,0,0,0
+208,NER,NE14526,MULTI TASKING STAFF,"Geological Survey of India, Ministry of Mines",,,,2,2,4,7,3,18,1,0,1,0,0
+209,NR,NR10126,Market Intelligence Inspector (Economics),"Economics, Statistics & Evaluation Division, Department of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+210,NR,NR10226,Driver- cum-Mechanic,"Directorate of Plant Protection, Quarantine and Storage, Department of Agriculture & Farmers Welfare, Ministry of",18-27,Level 3,Matriculation (10th),0,0,0,4,0,4,0,0,0,0,0
+211,NR,NR10326,Technical Assistant,"Directorate of Plant Protection, Quarantine and Storage, Department of Agriculture & Farmers Welfare, Ministry of",18-25,Level 3,Graduation & Above,1,1,6,6,0,14,1,0,0,0,0
+212,NR,NR10426,Scientific Assistant,"Directorate of Plant Protection, Quarantine and Storage, Department of Agriculture & Farmers Welfare, Ministry of",18-25,Level 5,Graduation & Above,3,2,10,14,0,29,2,0,0,0,0
+213,NR,NR10526,Mechanic (Electric cum,"Laboratory Equipment) Directorate of Plant Protection, Quarantine and Storage, Department of Agriculture & Farmers Welfare, Ministry of",18-25,Level 4,Higher Secondary (10+2),0,0,1,0,1,2,0,0,0,0,0
+214,NR,NR10626,Junior Technical Assistant,"Petroleum and Explosives Safety Organization (PESO), O/o Chief Controller of Explosives, Department for Promotion of Industry and",18-25,Level 5,Higher Secondary (10+2),8,4,15,25,6,58,6,1,1,0,0
+215,NR,NR10726,Junior Wireless Officers,"Department of Telecommunications,",18-30,Level 6,Higher Secondary (10+2),13,1,2,38,6,60,0,0,0,1,1
+216,NR,NR10826,Accounts & Statistical Assistant,"Directorate of Sugar and Vegetable Oils, Department of Food and Public Distribution, Ministry of",18-27,Level 5,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+217,NR,NR10926,Canteen Attendant,"Department of Food and Public Distribution, Ministry of Consumer Affairs, Food,",18-25,Level 1,Matriculation (10th),1,0,0,2,0,3,0,0,0,0,0
+218,NR,NR11026,Assistant Halwai-cumCook,"Department of Food and Public Distribution, Ministry of Consumer Affairs, Food,",18-25,Level 2,Matriculation (10th),0,0,0,2,0,2,0,0,0,0,0
+219,NR,NR11126,Operator (Senior Grade),"National Test House, Department of Consumer Affairs, Ministry of",18-25,Level 4,Matriculation (10th),0,0,1,0,0,1,0,0,0,0,0
+220,NR,NR11226,Operator (Ordinary Grade),"National Test House, Department of Consumer Affairs, Ministry of",18-25,Level 2,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+221,NR,NR11326,Junior Technical Assistant,"Admin-II Section, Ministry of Corporate Affairs",18-30,Level 6,Graduation & Above,7,5,7,17,2,38,0,0,0,2,0
+222,NR,NR11426,Senior Technical Assistant,"Admin-II Section, Ministry of Corporate Affairs",18-30,Level 7,Graduation & Above,2,0,2,3,0,7,0,0,0,0,0
+223,NR,NR11526,Junior Legal Assistant,National Company Law,18-30,Level 6,Graduation & Above,2,7,4,14,2,29,0,1,0,0,0
+224,NR,NR11626,Staff Car Driver (Ordinary Grade),"Directorate General of Aeronautical Quality Assurance (DGAQA), Department of Defence",18-25,Level 2,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+225,NR,NR11726,Junior Engineer (Naval,"Quality Assurance) - Metallurgy Directorate of Quality Assurance (Naval), Department of Defence",18-30,Level 6,Higher Secondary (10+2),0,0,1,0,0,1,0,0,0,0,0
+226,NR,NR11826,Library & Information Assistant,"Office of the Joint Secretary & Chief Administrative Officers (O/O JS & CAO) , Integrated Headquarters of Ministry of Defence (Army,",18-30,Level 6,Graduation & Above,0,0,1,2,0,3,0,0,0,1,0
+227,NR,NR11926,"Data Entry Operator, Grade 'B'","Office of the Joint Secretary & Chief Administrative Officers (O/O JS & CAO) ,",18-25,Level 5,Graduation & Above,3,1,4,11,1,20,0,0,0,1,0
+228,NR,NR12126,Staff Car Driver (Ordinary Grade),India Meteorological,18-27,Level 2,Matriculation (10th),1,1,3,8,1,14,1,0,0,0,0
+229,NR,NR12226,Telephone Operator,"Forest Survey of India, Ministry of Environment &",18-27,Level 2,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+230,NR,NR12326,Research Assistant (Environment),Ministry of Environment & Forests and Climate Change,,,,1,0,0,1,0,2,0,0,0,0,0
+231,NR,NR12426,Research Investigator (Forestry),Ministry of Environment & Forests and Climate Change,,,,0,0,0,1,1,2,0,0,0,0,0
+232,NR,NR12526,"MTS (Assistant Keeper, Attendant)","National Zoological Park, Ministry of Environment &",18-25,Level 1,Matriculation (10th),4,2,7,49,2,64,16,1,1,0,0
+233,NR,NR12626,Senior Educational Assistant,"National Museum of Natural History, Ministry of Environment & Forests and Climate Change",18-30,Level 6,Graduation & Above,0,1,0,0,0,1,0,0,0,0,0
+234,NR,NR12726,Senior Technical Assistant (Exhibition),"National Museum of Natural History, Ministry of Environment & Forests and Climate Change",18-30,Level 6,Graduation & Above,1,0,0,0,0,1,0,0,0,0,0
+235,NR,NR12826,Laboratory Assistant,"National Zoological Park, Ministry of Environment &",18-27,Level 4,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+236,NR,NR12926,Driver (Ordinary Grade),"Forest Survey of India, Ministry of Environment &",18-27,Level 2,Matriculation (10th),0,0,0,1,0,1,1,0,0,0,0
+237,NR,NR13026,Stockman (Junior Grade),"Central Herd Registration Scheme, Department of Animal Husbandry and Dairying, Ministry of Fisheries,",18-27,Level 2,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+238,NR,NR13626,Assistant (Architectural Department),"Central Public Works Department , CPWD,",18-30,Level 6,Higher Secondary (10+2),1,0,1,10,0,12,0,0,1,0,0
+239,NR,NR13726,Photo and Video Journalist Grade-II,"Photo Division , Press Information Bureau,",18-27,Level 4,Higher Secondary (10+2),1,0,2,4,1,8,0,0,0,0,0
+240,NR,NR14726,Language Instructor (Oriya & Bengali),"Lal Bahadur Shastri National Academy of Administration (LBSNAA), Department of Personnel and Training, Ministry of Personnel, Public",18-30,Level 8,Graduation & Above,0,0,1,0,0,1,0,0,0,0,0
+241,NR,NR14826,Language Instructor (Malayalam & Kannada),"Lal Bahadur Shastri National Academy of Administration (LBSNAA), Department of Personnel and Training, Ministry of Personnel, Public",18-30,Level 8,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+242,NR,NR14926,Language Instructor (Tamil & Telugu),"Lal Bahadur Shastri National Academy of Administration (LBSNAA), Department of Personnel and Training, Ministry of Personnel, Public",18-30,Level 8,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+243,NR,NR15026,Language Instructor (Marathi & Gujarati),"Lal Bahadur Shastri National Academy of Administration (LBSNAA), Department of Personnel and Training, Ministry of Personnel, Public",18-30,Level 8,Graduation & Above,0,0,1,0,0,1,0,0,0,0,0
+244,NR,NR15126,Language Instructor (Assamese & Manipuri),"Lal Bahadur Shastri National Academy of Administration (LBSNAA), Department of Personnel and Training, Ministry of Personnel, Public",18-30,Level 8,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+245,NR,NR15226,Language Instructor (Punjabi & Urdu),"Lal Bahadur Shastri National Academy of Administration (LBSNAA), Department of Personnel and Training, Ministry of Personnel, Public",18-30,Level 8,Graduation & Above,0,1,0,0,0,1,0,0,0,0,0
+246,NR,NR15326,Library and Information Assistant (LIA),Ministry of Road Transport & Highways,,,,0,0,0,1,0,1,0,0,0,0,0
+247,NR,NR15426,Junior Accounts Officer (JAO),Department of Land,18-30,Level 6,Graduation & Above,0,0,0,2,0,2,0,0,0,0,0
+248,NR,NR15526,Senior Store Keeper,"Survey of India , Department of Science and Technology, Ministry of",18-27,Level 5,Graduation & Above,1,1,1,3,1,7,1,0,1,0,0
+249,NR,NR15626,Store Keeper,"Survey of India , Department of Science and Technology, Ministry of",18-27,Level 4,Higher Secondary (10+2),2,1,3,3,1,10,1,0,0,0,0
+250,NR,NR18726,Library and Information Assistant (LIA),Ministry of External Affairs,,,,0,0,1,0,0,1,0,0,0,0,0
+251,NR,NR18826,Caretaker,"UPSC, Union Public Service Commission",,,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+252,NR,NR18926,Technical Assistant (Accounts),"UPSC, Union Public Service Commission",,,,0,0,1,0,0,1,0,1,0,0,0
+253,NR,NR19026,Halwai-cum-Cook,"UPSC, Union Public Service Commission",,,,0,0,0,1,0,1,0,0,0,0,0
+254,NR,NR19226,Draughtsman Grade II,"Department of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers Welfare",18-27,Level 5,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+255,NR,NR19326,Multi-Tasking Staff (Technical),"Department of Agriculture and Farmers Welfare , Ministry of Agriculture &",18-27,Level 1,Matriculation (10th),1,1,0,0,0,2,0,0,0,0,0
+256,NR,NR19426,Accountant,"CEPTAM, DRDO, Department of Defence Research and Development,",18-30,Level 6,Graduation & Above,1,1,4,10,1,17,0,0,1,0,0
+257,NR,NR19826,Girl Cadet Instructor (GCI),"Office- Directorate General NCC, Ministry of Defence,",,,,11,9,28,19,31,98,0,0,0,0,0
+258,NWR,NW10126,Senior Technical Assistant (Chemical),"Central Ground Water Board, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,0,0,1,1,0,2,0,0,0,0,0
+259,NWR,NW10226,Senior Technical Assistant (Geophysics),"Central Ground Water Board, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,0,0,1,0,0,1,0,0,0,0,0
+260,NWR,NW10326,Senior Technical Assistant (Hydrogeology),"Central Ground Water Board, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,1,1,0,2,0,4,0,0,0,0,0
+261,NWR,NW10426,Senior Technical,"Assistant (Hydrometeorology) Central Ground Water Board, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+262,NWR,NW10526,Assistant Technical Officer,"Central Research Institute, Directorate General of",18-30,Level 6,Graduation & Above,2,1,4,6,1,14,0,1,0,0,0
+263,NWR,NW10626,Workshop Attendant,"Central Research Institute, Directorate General of",18-25,Level 1,Matriculation (10th),0,1,0,4,1,6,0,0,0,0,0
+264,NWR,NW10726,Laboratory Attendant,"Central Research Institute, Directorate General of",18-27,Level 1,Matriculation (10th),10,5,12,14,2,43,5,1,1,0,0
+265,NWR,NW10826,Laboratory Attendant,"Regional Drugs Testing Laboratory , Directorate General of Health Services,",18-27,Level 1,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+266,NWR,NW10926,Driver-Cum-Mechanics,"Directorate of Plant Protection, Quarantine and Storage, Department of Agriculture & Farmers Welfare, Ministry of",18-27,Level 3,Matriculation (10th),0,0,0,2,0,2,0,0,0,0,0
+267,NWR,NW11026,Library and Information Assistant,"Farm Machinery Training & Testing Institute, Department of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,1,0,0
+268,NWR,NW11126,Library and Information Assistant,"Anthropological Survey of India, Ministry of Culture",,,,0,1,2,2,0,5,0,0,0,0,0
+269,NWR,NW11226,Research Associate,,18-30,Level 6,Graduation & Above,1,0,1,3,0,5,0,1,0,0,0
+270,NWR,NW11326,Research Associate (BioChemistry),"Anthropological Survey of India, Ministry of Culture",,,,1,0,0,0,0,1,0,0,0,0,0
+271,NWR,NW11426,Research Associate (Cultural Anthropology),"Anthropological Survey of India, Ministry of Culture",,,,1,0,0,0,1,2,0,0,0,0,0
+272,NWR,NW11526,Photographer (Micro),"Anthropological Survey of India, Ministry of Culture",,,,0,0,0,1,0,1,0,0,0,0,0
+273,NWR,NW11626,Junior Translator,"Anthropological Survey of India, Ministry of Culture",,,,1,0,0,1,0,2,0,0,0,0,0
+274,NWR,NW11726,Library and Information,"Assistant (General and Language) National Library, Ministry of",18-28,Level 6,Graduation & Above,1,1,0,1,0,3,0,0,0,0,0
+275,NWR,NW11826,Library and Information,"Assistant (General and Language) (Bodo Language) National Library, Ministry of",18-28,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+276,NWR,NW11926,Library and Information,"Assistant (General and Language) (Dogri Language) National Library, Ministry of",18-28,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+277,NWR,NW12026,Library and Information,"Assistant (General and Language) (Konkani Language) National Library, Ministry of",18-28,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+278,NWR,NW12126,Library and Information,"Assistant (General and Language) (Maithili Language) National Library, Ministry of",18-28,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+279,NWR,NW12226,Library and Information,"Assistant (General and Language) (Manipuri Language) National Library, Ministry of",18-28,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+280,NWR,NW12326,Library and Information,"Assistant (General and Language) (Nepali Language) National Library, Ministry of",18-28,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+281,NWR,NW12426,Library and Information,"Assistant (General and Language) (Santhali Language) National Library, Ministry of",18-28,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+282,NWR,NW12526,Library and Information,"Assistant (General and Language) (Sindhi Language) National Library, Ministry of",18-28,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+283,NWR,NW12626,Library and Information,"Assistant (Preservation) National Library, Ministry of",18-28,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+284,NWR,NW12726,Library Clerk (General),"National Library, Ministry of",18-25,Level 2,Matriculation (10th),3,1,8,0,2,14,1,0,0,0,0
+285,NWR,NW12826,Assistant Manager cum Storekeeper,"National Library, Ministry of",18-25,Level 4,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+286,NWR,NW12926,Mechanic (Electric cum,"Laboratory Equipment) Directorate of Plant Protection, Quarantine and Storage, Department of Agriculture & Farmers Welfare, Ministry of",18-25,Level 4,Higher Secondary (10+2),1,0,0,1,0,2,0,0,0,0,0
+287,NWR,NW13026,Assistant Plant,"Protection Officer (Plant Pathology/ Virology/ Bacteriology) Directorate of Plant Protection, Quarantine and Storage, Department of Agriculture & Farmers Welfare, Ministry of",18-30,Level 6,Graduation & Above,0,1,0,6,3,10,0,0,0,0,0
+288,NWR,NW13126,Assistant Plant,"Protection Officer (Entomology/ Nematology ) Directorate of Plant Protection, Quarantine and Storage, Department of Agriculture & Farmers Welfare, Ministry of",18-30,Level 6,Graduation & Above,1,0,3,7,1,12,0,0,0,0,0
+289,NWR,NW13226,Assistant Plant,"Protection Officer (Weed Science) Directorate of Plant Protection, Quarantine and Storage, Department of Agriculture & Farmers Welfare, Ministry of",18-30,Level 6,Graduation & Above,1,1,3,4,0,9,0,0,0,0,0
+290,NWR,NW13326,Library and Information Assistant,"Central Administrative Tribunal, Department of Personnel and Training, Ministry of Personnel,",18-30,Level 6,Graduation & Above,0,0,1,0,0,1,0,0,0,0,0
+291,SR,SR10126,Navigational Assistant Grade-II,"Directorate General of Lighthouses & Lightships,",18-27,Level 6,Higher Secondary (10+2),0,0,0,1,1,2,0,0,0,0,0
+292,SR,SR10226,Textile Designer,"O/o the Development Commissioner for Handlooms, Weavers,",18-30,Level 6,Higher Secondary (10+2),1,0,5,7,2,15,0,0,1,0,0
+293,SR,SR10326,Farm Assistant,"Regional Fodder Station, Department of Animal Husbandry and Dairying, Ministry of Fisheries,",18-25,Level 4,Higher Secondary (10+2),0,0,1,0,0,1,0,0,0,0,0
+294,SR,SR10426,Court Master,"Customs Excise and Service Tax Appellate Tribunal (CESTAT), Department of",18-30,Level 7,Graduation & Above,0,1,0,0,0,1,0,0,0,0,0
+295,SR,SR10526,Pharmacist cum Clerk,"Government Medical Store Depot, Directorate General of Health Services, Ministry of Health and Family",21-28,Level 5,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+296,SR,SR10626,Lower Division Clerk,"Petroleum and Explosives safety Organization, O/o Chief Controller of Explosives, Department for Promotion of Industry and",18-25,Level 2,Matriculation (10th),2,0,0,2,1,5,1,0,0,0,0
+297,SR,SR10726,Stenographer Grade-III,"Petroleum and Explosives safety Organization, O/o Chief Controller of Explosives, Department for Promotion of Industry and",18-25,Level 4,Matriculation (10th),0,0,0,2,1,3,0,0,0,0,0
+298,SR,SR10826,Engine Driver,"HQENC, NHQ Ministry of Defence",,,Higher Secondary (10+2),0,0,0,2,0,2,0,0,0,0,0
+299,SR,SR10926,Fireman,"HQENC, NHQ Ministry of Defence",,,,1,0,0,1,0,2,0,0,0,0,0
+300,SR,SR11026,LASCAR-I,"HQENC, NHQ Ministry of Defence",,,,6,4,2,8,5,25,2,0,0,0,0
+301,SR,SR11126,Master Grade II,"HQENC, NHQ Ministry of Defence",,,,0,0,0,2,0,2,0,0,0,0,0
+302,SR,SR11226,Syrang of Lascars,"HQENC, NHQ Ministry of Defence",,,,0,1,0,1,0,2,0,0,0,0,0
+303,SR,SR11326,Tindal of Lascar,"HQENC, NHQ Ministry of Defence",,,,0,0,0,1,0,1,0,0,0,0,0
+304,SR,SR11426,Laboratory Attendant,"Central Leprosy Teaching and Research Institute, Directorate General of",18-27,Level 1,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+305,SR,SR11526,Dhobi,"Central Leprosy Teaching and Research Institute, Directorate General of",18-27,Level 1,Matriculation (10th),0,0,1,0,0,1,0,0,0,0,0
+306,SR,SR11626,Fitter,"Central Leprosy Teaching and Research Institute, Directorate General of",18-27,Level 2,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+307,SR,SR11726,Radiographer,"Central Leprosy Teaching and Research Institute, Directorate General of",18-30,Level 6,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+308,SR,SR11826,Junior Technical Assistant (Chemical),"Geological Survey of India, Ministry of Mines",,,,0,1,1,4,1,7,0,0,0,0,0
+309,SR,SR11926,Junior Technical Assistant (Geophysics),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,1,2,0,3,0,0,0,0,0
+310,SR,SR12026,Junior Technical Assistant (Geology),"Geological Survey of India, Ministry of Mines",,,,1,0,1,2,0,4,0,0,0,0,0
+311,SR,SR12126,Drilling Assistant Grade -,,18-25,Level 4,Higher Secondary (10+2),0,0,1,3,0,4,1,0,0,0,0
+312,SR,SR12226,Drilling Assistant Grade -,,18-25,Level 3,Matriculation (10th),0,0,1,4,0,5,1,0,0,0,0
+313,SR,SR12326,Technical Operator,,18-25,Level 2,Matriculation (10th),1,0,2,5,0,8,1,1,0,0,0
+314,SR,SR12426,Assistant Store Keeper,"Geological Survey of India, Ministry of Mines",,,,0,0,0,1,0,1,0,0,0,0,0
+315,SR,SR12526,Stores Clerk (LDC Level),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+316,SR,SR12626,Senior Projectionist,"Sardar Vallabhbhai Patel National Police Academy,",18-27,Level 4,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+317,SR,SR12726,Maintenance Supervisor,"(Mechanical/ Civil Engineering/ Electrical/ Workshop/ NonDestructive) National Test House, Department of Consumer Affairs, Ministry of",18-25,Level 5,Higher Secondary (10+2),0,0,1,0,0,1,0,0,0,0,0
+318,SR,SR12826,Staff Car Driver (Ordinary Grade),"Central Forensic Science Laboratory, Directorate of Forensic Science Services,",18-25,Level 2,Matriculation (10th),0,0,1,0,0,1,0,0,0,0,0
+319,SR,SR12926,Nursing Orderly,"Sardar Vallabhbhai Patel National Police Academy,",18-27,Level 2,Matriculation (10th),0,0,0,0,1,1,0,0,0,0,0
+320,SR,SR13026,Canteen Attendant,"Sardar Vallabhbhai Patel National Police Academy,",18-27,Level 1,Matriculation (10th),0,0,1,0,0,1,0,0,0,0,0
+321,SR,SR13126,Laboratory Assistant Grade II (Chemical),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,2,0,2,0,0,0,0,0
+322,SR,SR13226,Laboratory Assistant Grade - II (Geophysics),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+323,SR,SR13326,Laboratory Assistant Grade II (Geology),"Geological Survey of India, Ministry of Mines",,,Higher Secondary (10+2),0,0,0,2,0,2,0,0,0,0,0
+324,SR,SR13426,Laboratory Attendant,"Central Forensic Science Laboratory, Directorate of Forensic Science Services,",18-27,Level 1,Matriculation (10th),0,0,1,2,0,3,0,1,0,0,0
+325,SR,SR13526,Library and Information Assistant,"Central Institute of Fisheries, Nautical and Engineering Training, Department of Fisheries, Ministry of Fisheries,",18-30,Level 6,Graduation & Above,0,0,1,0,0,1,0,0,1,0,0
+326,SR,SR13626,Clerk,"Sardar Vallabhbhai Patel National Police Academy,",18-27,Level 2,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+327,SR,SR13726,Laboratory Attendant,"Sardar Vallabhbhai Patel National Police Academy,",18-25,Level 1,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+328,SR,SR13826,Lower Division Clerk,"Central Leprosy Teaching and Research Institute, Directorate General of",18-25,Level 2,Matriculation (10th),0,0,1,0,0,1,0,0,0,0,0
+329,SR,SR13926,Senior Scientific Assistant (Toxicology),"Central Forensic Science Laboratory, Directorate of Forensic Science Services,",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,1,0,0,0
+330,SR,SR14026,Laboratory Technician,"Sardar Vallabhbhai Patel National Police Academy,",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+331,SR,SR14126,Technical,"Superintendent (Weaving) O/o the Development Commissioner for Handlooms, Weavers",18-30,Level 6,Higher Secondary (10+2),2,0,0,2,0,4,0,1,0,0,0
+332,SR,SR14226,Technical,"Superintendent (Processing) O/o the Development Commissioner for Handlooms, Weavers",18-30,Level 6,Higher Secondary (10+2),0,0,2,5,0,7,0,0,2,0,0
+333,SR,SR14326,Data Entry Operator Grade A,"Central Leprosy Teaching and Research Institute, Directorate General of",18-27,Level 4,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+334,SR,SR14426,Library Attendant,"Central Leprosy Teaching and Research Institute, Directorate General of",18-27,Level 1,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+335,SR,SR14526,Farm Assistant,"Regional Fodder Station, Department of Animal Husbandry and Dairying, Ministry of Fisheries,",18-25,Level 4,Higher Secondary (10+2),0,0,1,0,0,1,0,0,0,0,0
+336,SR,SR14626,Nursing Officer,"Central Leprosy Teaching and Research Institute, Directorate General of",18-25,Level 7,Higher Secondary (10+2),0,2,0,5,2,9,0,1,0,0,0
+337,SR,SR14726,Junior Engineer,"Central Silk Board, Ministry of Textiles,",,,Higher Secondary (10+2),1,0,0,2,0,3,0,0,0,0,0
+338,WR,WR10126,Multi-Tasking Staff (NonTechnical),"Indian Meteorological Department, Mausam Bhavan, Director General of",18-25,Level 1,Matriculation (10th),0,1,17,46,6,70,7,0,1,0,1
+339,WR,WR10226,Junior Technician (Orthotic),"All India Institute of Physical Medicine and Rehabilitation, Directorate General of Health Services, Ministry of Health & Family Welfare",18-27,Level 2,Matriculation (10th),2,1,2,4,1,10,1,0,0,0,0
+340,WR,WR10326,Junior Technician (Leather Technology),"All India Institute of Physical Medicine and Rehabilitation, Directorate General of Health",18-27,Level 2,Matriculation (10th),0,1,1,0,1,3,0,0,0,0,0
+341,WR,WR10426,Driver Mechanic (Ordinary Grade),"National Disaster Response Force Academy, Department of Home,",18-27,Level 2,Matriculation (10th),0,0,1,0,0,1,0,0,0,0,0
+342,WR,WR10526,Research Assistant (Engineering) (Civil),"Central Water Power Research Station, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,2,1,2,6,1,12,0,1,0,0,0
+343,WR,WR10626,Research Assistant,"(Engineering) (Mechanical) Central Water Power Research Station, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,0,0,1,1,0,2,0,0,0,0,0
+344,WR,WR10726,Research Assistant,"(Engineering) (Electronics Instrumentation) Central Water Power Research Station, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,1,1,0,2,0,4,0,0,0,0,0
+345,WR,WR10826,Research Assistant (Engineering) (Electrical),"Central Water Power Research Station, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,0,0,0,1,1,2,0,0,0,0,0
+346,WR,WR10926,Research Assistant,"(Engineering) (Computer Science) Central Water Power Research Station, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,1,0,1,2,0,4,0,0,0,0,0
+347,WR,WR11026,Research Assistant (Scientific) (Geo -Physics),"Central Water Power Research Station, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,0,0,1,1,0,2,0,0,0,0,0
+348,WR,WR11126,Research Assistant,"(Scientific) (Physics) Central Water Power Research Station, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,0,0,1,1,1,3,0,0,0,1,0
+349,WR,WR11226,Research Assistant,"(Scientific) (Mathematics) Central Water Power Research Station, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+350,WR,WR11326,Research Assistant (Scientific) (Chemistry),"Central Water and Power Research Station, Department of Water Resources, River Development and Ganga",18-30,Level 7,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+351,WR,WR11426,Laboratory Assistant Grade-II (Physics),"Central Water Power Research Station, Department of Water Resources, River Development and Ganga",21-27,Level 4,Graduation & Above,2,0,2,5,1,10,1,1,0,0,0
+352,WR,WR11526,Laboratory Assistant Grade-II (Chemistry),"Central Water Power Research Station, Department of Water Resources, River Development and Ganga",21-27,Level 4,Graduation & Above,0,0,1,1,0,2,0,0,0,0,0
+353,WR,WR11626,Laboratory Assistant,"Grade-II (Computer Science) Central Water Power Research Station, Department of Water Resources, River Development and Ganga",21-27,Level 4,Graduation & Above,2,1,2,4,1,10,1,0,1,0,0
+354,WR,WR11726,Laboratory Assistant Grade-II (Mathematics),"Central Water Power Research Station, Department of Water Resources, River Development and Ganga",21-27,Level 4,Graduation & Above,2,1,1,5,1,10,1,0,0,0,0
+355,WR,WR11826,Laboratory Assistant Grade-II (Statistics),"Central Water Power Research Station, Department of Water Resources, River Development and Ganga",21-27,Level 4,Graduation & Above,0,0,1,1,0,2,0,0,0,0,0
+356,WR,WR11926,"Stockman, (Junior Grade)","Central Herd Registration Scheme, Department of Animal Husbandry and Dairying, Ministry of Fisheries,",18-27,Level 2,Higher Secondary (10+2),0,1,1,3,0,5,0,0,0,0,0
+357,WR,WR12026,Marine Electrician,"Fishery Survey of India , Department of Fisheries, Ministry of Fisheries,",18-30,Level 6,Higher Secondary (10+2),1,0,0,0,0,1,0,0,0,0,0
+358,WR,WR12126,Sr. Scientific Assistant,"Fishery Survey of India , Department of Fisheries, Ministry of Fisheries,",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+359,WR,WR12226,Senior Technical Assistant,"Directorate of Cotton Development, Department of Agriculture & Farmers Welfare, Ministry of",18-30,Level 6,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+360,WR,WR12326,Multi-Tasking Staff (NonTechnical),"Geological Survey of India, Central Region, Geological",18-25,Level 1,Matriculation (10th),0,0,10,12,3,25,2,1,1,1,1
+361,WR,WR12426,Instructor (Vocational,"Training Workshop) -in Carpenter trade. All India Institute of Physical Medicine and Rehabilitation, Directorate General of Health Services, Ministry of Health & Family Welfare",18-27,Level 2,Matriculation (10th),1,0,0,0,0,1,0,0,0,0,0
+362,WR,WR12526,Deputy Ranger,"Forest survey of India, RO (Central), Ministry of",18-27,Level 4,Higher Secondary (10+2),0,0,0,0,1,1,0,0,0,0,0
+363,WR,WR12726,Junior Technician (Electroplating),"All India Institute of Physical Medicine and Rehabilitation, Directorate General of Health Services, Ministry of Health & Family Welfare",18-27,Level 2,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+364,WR,WR12826,Mechanic,National Fire Service,18-27,Level 2,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+365,WR,WR12926,Fire and Rescue Operator,"National Fire Service College , Ministry of Home Affairs",18-27,Level 2,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+366,WR,WR13026,Laboratory Assistant,National Fire Service,18-27,Level 5,Graduation & Above,0,0,1,2,1,4,0,0,0,0,0
+367,WR,WR13126,Store Keeper,National Fire Service,18-27,Level 4,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+368,WR,WR13226,Fieldman,"Forest Survey of India, Regional Office (Central), Ministry of Environment &",18-27,Level 2,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+369,WR,WR13326,Speech Therapist,Directorate General Armed Force Medical Service,18-30,Level 6,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+370,WR,WR13426,Driver,"Government Medical Store Depot, Directorate General of Health Services, Ministry of Health & Family Welfare",18-25,Level 2,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+371,WR,WR13526,Pharmacist-Cum-Clerk,"Government Medical Store Depot, Directorate General of Health Services, Ministry of Health & Family Welfare",21-28,Level 5,Higher Secondary (10+2),1,0,1,4,1,7,0,0,0,0,0
+372,WR,WR13626,Assistant Chemist,"Government Medical Store Depot, Directorate General of Health Services, Ministry of Health & Family Welfare",23-28,Level 6,Graduation & Above,1,0,0,1,0,2,0,0,0,0,0
+373,WR,WR13726,Staff Car Driver (Ordinary Grade),"India Tourism Office, Ministry of Tourism",,,,0,0,0,1,0,1,0,0,0,0,0
+374,WR,WR13826,Laboratory Attendant,"Central Forensic Science Laboratory, Directorate of Forensic Science Services,",18-27,Level 1,Matriculation (10th),0,0,0,1,0,1,0,0,0,0,0
+375,WR,WR13926,Junior Technical Assistant (Ore Dressing),"Indian Bureau of Mines, Ministry of Mines,",,,,1,0,1,2,1,5,0,0,0,0,0
+376,WR,WR14026,Laboratory Attendant,"Indian Bureau of Mines, Ministry of Mines,",,,Higher Secondary (10+2),3,0,6,7,3,19,3,0,0,0,0
+377,WR,WR14126,Technical Assistant (Publication),"Indian Bureau of Mines, Ministry of Mines,",,,,0,0,0,1,0,1,0,0,0,1,0
+378,WR,WR14226,Junior Chemist,Directorate Marketing &,18-30,Level 5,Graduation & Above,1,2,0,12,1,16,2,0,0,0,0
+379,WR,WR14326,Accountant,"National Centre for Organic and Natural Farming, Dept. of Agriculture & Farmers",18-27,Level 5,Graduation & Above,0,0,0,1,0,1,0,0,0,0,0
+380,WR,WR14426,Laboratory Assistant,"National Centre for Organic & Natural Farming, Dept. of Agriculture & Farmers",18-25,Level 2,Higher Secondary (10+2),0,0,0,1,0,1,0,0,0,0,0
+381,WR,WR14526,Senior Technical Assistant (Drawing),"Indian Bureau of Mines, Ministry of Mines",,,,1,0,3,4,0,8,0,0,0,1,0
+382,WR,WR14626,Navigational Assistant Grade-II,"Directorate of Lighthouses & Lightships VTS, Ministry of Ports, Shipping and Waterways",18-27,Level 6,Higher Secondary (10+2),1,0,0,0,0,1,0,0,0,0,0

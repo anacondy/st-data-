@@ -1,0 +1,342 @@
+{
+  "overall": {
+    "SC": 346,
+    "ST": 185,
+    "OBC": 667,
+    "UR": 1534,
+    "EWS": 271,
+    "Total": 3003,
+    "ESM": 101,
+    "OH": 40,
+    "HH": 40,
+    "VH": 24,
+    "Others": 15
+  },
+  "by_region": {
+    "CR": {
+      "SC": 36,
+      "ST": 20,
+      "OBC": 87,
+      "UR": 174,
+      "EWS": 17,
+      "Total": 334,
+      "Posts": 38,
+      "StatesUTs": "Bihar, Uttar Pradesh"
+    },
+    "ER": {
+      "SC": 27,
+      "ST": 12,
+      "OBC": 51,
+      "UR": 158,
+      "EWS": 9,
+      "Total": 257,
+      "Posts": 43,
+      "StatesUTs": "Andaman & Nicobar Islands, Jharkhand, Odisha, Sikkim, West Bengal"
+    },
+    "KKR": {
+      "SC": 49,
+      "ST": 16,
+      "OBC": 77,
+      "UR": 147,
+      "EWS": 35,
+      "Total": 324,
+      "Posts": 42,
+      "StatesUTs": "Lakshadweep, Karnataka, Kerala"
+    },
+    "MPR": {
+      "SC": 75,
+      "ST": 46,
+      "OBC": 167,
+      "UR": 385,
+      "EWS": 79,
+      "Total": 752,
+      "Posts": 40,
+      "StatesUTs": "Chhattisgarh, Madhya Pradesh"
+    },
+    "NER": {
+      "SC": 32,
+      "ST": 20,
+      "OBC": 60,
+      "UR": 115,
+      "EWS": 24,
+      "Total": 251,
+      "Posts": 45,
+      "StatesUTs": "Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Tripura"
+    },
+    "NR": {
+      "SC": 65,
+      "ST": 39,
+      "OBC": 107,
+      "UR": 263,
+      "EWS": 57,
+      "Total": 531,
+      "Posts": 49,
+      "StatesUTs": "Delhi, Rajasthan, Uttarakhand"
+    },
+    "NWR": {
+      "SC": 24,
+      "ST": 13,
+      "OBC": 36,
+      "UR": 68,
+      "EWS": 11,
+      "Total": 152,
+      "Posts": 33,
+      "StatesUTs": "Chandigarh, Haryana, Himachal Pradesh, Jammu & Kashmir, Ladakh, Punjab"
+    },
+    "SR": {
+      "SC": 15,
+      "ST": 9,
+      "OBC": 25,
+      "UR": 81,
+      "EWS": 14,
+      "Total": 144,
+      "Posts": 47,
+      "StatesUTs": "Andhra Pradesh, Puducherry, Tamil Nadu, Telangana"
+    },
+    "WR": {
+      "SC": 23,
+      "ST": 10,
+      "OBC": 57,
+      "UR": 143,
+      "EWS": 25,
+      "Total": 258,
+      "Posts": 45,
+      "StatesUTs": "Dadra & Nagar Haveli and Daman & Diu, Goa, Gujarat, Maharashtra"
+    }
+  },
+  "by_exam": {
+    "Matriculation (10th)": {
+      "SC": 76,
+      "ST": 48,
+      "OBC": 194,
+      "UR": 428,
+      "EWS": 79,
+      "Total": 825,
+      "Posts": 74
+    },
+    "Higher Secondary (10+2)": {
+      "SC": 105,
+      "ST": 41,
+      "OBC": 199,
+      "UR": 531,
+      "EWS": 66,
+      "Total": 942,
+      "Posts": 128
+    },
+    "Graduation & Above": {
+      "SC": 129,
+      "ST": 74,
+      "OBC": 211,
+      "UR": 443,
+      "EWS": 76,
+      "Total": 933,
+      "Posts": 136
+    }
+  },
+  "region_x_exam": [
+    {
+      "Region": "CR",
+      "ExamLevel": "Matriculation (10th)",
+      "Posts": 4,
+      "Total": 6,
+      "ST": 1
+    },
+    {
+      "Region": "CR",
+      "ExamLevel": "Higher Secondary (10+2)",
+      "Posts": 25,
+      "Total": 296,
+      "ST": 14
+    },
+    {
+      "Region": "CR",
+      "ExamLevel": "Graduation & Above",
+      "Posts": 7,
+      "Total": 30,
+      "ST": 5
+    },
+    {
+      "Region": "ER",
+      "ExamLevel": "Matriculation (10th)",
+      "Posts": 8,
+      "Total": 35,
+      "ST": 2
+    },
+    {
+      "Region": "ER",
+      "ExamLevel": "Higher Secondary (10+2)",
+      "Posts": 17,
+      "Total": 89,
+      "ST": 2
+    },
+    {
+      "Region": "ER",
+      "ExamLevel": "Graduation & Above",
+      "Posts": 12,
+      "Total": 58,
+      "ST": 6
+    },
+    {
+      "Region": "KKR",
+      "ExamLevel": "Matriculation (10th)",
+      "Posts": 11,
+      "Total": 32,
+      "ST": 1
+    },
+    {
+      "Region": "KKR",
+      "ExamLevel": "Higher Secondary (10+2)",
+      "Posts": 12,
+      "Total": 51,
+      "ST": 1
+    },
+    {
+      "Region": "KKR",
+      "ExamLevel": "Graduation & Above",
+      "Posts": 14,
+      "Total": 227,
+      "ST": 14
+    },
+    {
+      "Region": "MPR",
+      "ExamLevel": "Matriculation (10th)",
+      "Posts": 9,
+      "Total": 440,
+      "ST": 30
+    },
+    {
+      "Region": "MPR",
+      "ExamLevel": "Higher Secondary (10+2)",
+      "Posts": 25,
+      "Total": 235,
+      "ST": 14
+    },
+    {
+      "Region": "MPR",
+      "ExamLevel": "Graduation & Above",
+      "Posts": 4,
+      "Total": 73,
+      "ST": 2
+    },
+    {
+      "Region": "NER",
+      "ExamLevel": "Matriculation (10th)",
+      "Posts": 3,
+      "Total": 6,
+      "ST": 0
+    },
+    {
+      "Region": "NER",
+      "ExamLevel": "Higher Secondary (10+2)",
+      "Posts": 6,
+      "Total": 13,
+      "ST": 1
+    },
+    {
+      "Region": "NER",
+      "ExamLevel": "Graduation & Above",
+      "Posts": 31,
+      "Total": 200,
+      "ST": 15
+    },
+    {
+      "Region": "NR",
+      "ExamLevel": "Matriculation (10th)",
+      "Posts": 11,
+      "Total": 94,
+      "ST": 4
+    },
+    {
+      "Region": "NR",
+      "ExamLevel": "Higher Secondary (10+2)",
+      "Posts": 10,
+      "Total": 154,
+      "ST": 6
+    },
+    {
+      "Region": "NR",
+      "ExamLevel": "Graduation & Above",
+      "Posts": 21,
+      "Total": 177,
+      "ST": 20
+    },
+    {
+      "Region": "NWR",
+      "ExamLevel": "Matriculation (10th)",
+      "Posts": 4,
+      "Total": 65,
+      "ST": 7
+    },
+    {
+      "Region": "NWR",
+      "ExamLevel": "Higher Secondary (10+2)",
+      "Posts": 2,
+      "Total": 3,
+      "ST": 0
+    },
+    {
+      "Region": "NWR",
+      "ExamLevel": "Graduation & Above",
+      "Posts": 22,
+      "Total": 73,
+      "ST": 5
+    },
+    {
+      "Region": "SR",
+      "ExamLevel": "Matriculation (10th)",
+      "Posts": 13,
+      "Total": 32,
+      "ST": 0
+    },
+    {
+      "Region": "SR",
+      "ExamLevel": "Higher Secondary (10+2)",
+      "Posts": 22,
+      "Total": 64,
+      "ST": 2
+    },
+    {
+      "Region": "SR",
+      "ExamLevel": "Graduation & Above",
+      "Posts": 4,
+      "Total": 4,
+      "ST": 1
+    },
+    {
+      "Region": "WR",
+      "ExamLevel": "Matriculation (10th)",
+      "Posts": 11,
+      "Total": 115,
+      "ST": 3
+    },
+    {
+      "Region": "WR",
+      "ExamLevel": "Higher Secondary (10+2)",
+      "Posts": 9,
+      "Total": 37,
+      "ST": 1
+    },
+    {
+      "Region": "WR",
+      "ExamLevel": "Graduation & Above",
+      "Posts": 21,
+      "Total": 91,
+      "ST": 6
+    }
+  ],
+  "st_by_region": {
+    "CR": 20,
+    "ER": 12,
+    "KKR": 16,
+    "MPR": 46,
+    "NER": 20,
+    "NR": 39,
+    "NWR": 13,
+    "SR": 9,
+    "WR": 10
+  },
+  "max_st_region": "MPR",
+  "max_st_value": 46,
+  "records_count": 382,
+  "mismatch_rows": []
+}

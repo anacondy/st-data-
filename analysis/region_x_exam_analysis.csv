@@ -1,0 +1,28 @@
+Region,ExamLevel,Posts,Total,ST
+CR,Matriculation (10th),4,6,1
+CR,Higher Secondary (10+2),25,296,14
+CR,Graduation & Above,7,30,5
+ER,Matriculation (10th),8,35,2
+ER,Higher Secondary (10+2),17,89,2
+ER,Graduation & Above,12,58,6
+KKR,Matriculation (10th),11,32,1
+KKR,Higher Secondary (10+2),12,51,1
+KKR,Graduation & Above,14,227,14
+MPR,Matriculation (10th),9,440,30
+MPR,Higher Secondary (10+2),25,235,14
+MPR,Graduation & Above,4,73,2
+NER,Matriculation (10th),3,6,0
+NER,Higher Secondary (10+2),6,13,1
+NER,Graduation & Above,31,200,15
+NR,Matriculation (10th),11,94,4
+NR,Higher Secondary (10+2),10,154,6
+NR,Graduation & Above,21,177,20
+NWR,Matriculation (10th),4,65,7
+NWR,Higher Secondary (10+2),2,3,0
+NWR,Graduation & Above,22,73,5
+SR,Matriculation (10th),13,32,0
+SR,Higher Secondary (10+2),22,64,2
+SR,Graduation & Above,4,4,1
+WR,Matriculation (10th),11,115,3
+WR,Higher Secondary (10+2),9,37,1
+WR,Graduation & Above,21,91,6
