@@ -131,6 +131,15 @@
       "EWS": 76,
       "Total": 933,
       "Posts": 136
+    },
+    "Unspecified / Not Mentioned": {
+      "SC": 36,
+      "ST": 22,
+      "OBC": 63,
+      "UR": 132,
+      "EWS": 50,
+      "Total": 303,
+      "Posts": 44
     }
   },
   "region_x_exam": [
@@ -156,6 +165,13 @@
       "ST": 5
     },
     {
+      "Region": "CR",
+      "ExamLevel": "Unspecified / Not Mentioned",
+      "Posts": 2,
+      "Total": 2,
+      "ST": 0
+    },
+    {
       "Region": "ER",
       "ExamLevel": "Matriculation (10th)",
       "Posts": 8,
@@ -175,6 +191,13 @@
       "Posts": 12,
       "Total": 58,
       "ST": 6
+    },
+    {
+      "Region": "ER",
+      "ExamLevel": "Unspecified / Not Mentioned",
+      "Posts": 6,
+      "Total": 75,
+      "ST": 2
     },
     {
       "Region": "KKR",
@@ -198,6 +221,13 @@
       "ST": 14
     },
     {
+      "Region": "KKR",
+      "ExamLevel": "Unspecified / Not Mentioned",
+      "Posts": 5,
+      "Total": 14,
+      "ST": 0
+    },
+    {
       "Region": "MPR",
       "ExamLevel": "Matriculation (10th)",
       "Posts": 9,
@@ -217,6 +247,13 @@
       "Posts": 4,
       "Total": 73,
       "ST": 2
+    },
+    {
+      "Region": "MPR",
+      "ExamLevel": "Unspecified / Not Mentioned",
+      "Posts": 2,
+      "Total": 4,
+      "ST": 0
     },
     {
       "Region": "NER",
@@ -240,6 +277,13 @@
       "ST": 15
     },
     {
+      "Region": "NER",
+      "ExamLevel": "Unspecified / Not Mentioned",
+      "Posts": 5,
+      "Total": 32,
+      "ST": 4
+    },
+    {
       "Region": "NR",
       "ExamLevel": "Matriculation (10th)",
       "Posts": 11,
@@ -259,6 +303,13 @@
       "Posts": 21,
       "Total": 177,
       "ST": 20
+    },
+    {
+      "Region": "NR",
+      "ExamLevel": "Unspecified / Not Mentioned",
+      "Posts": 7,
+      "Total": 106,
+      "ST": 9
     },
     {
       "Region": "NWR",
@@ -282,6 +333,13 @@
       "ST": 5
     },
     {
+      "Region": "NWR",
+      "ExamLevel": "Unspecified / Not Mentioned",
+      "Posts": 5,
+      "Total": 11,
+      "ST": 1
+    },
+    {
       "Region": "SR",
       "ExamLevel": "Matriculation (10th)",
       "Posts": 13,
@@ -303,6 +361,13 @@
       "ST": 1
     },
     {
+      "Region": "SR",
+      "ExamLevel": "Unspecified / Not Mentioned",
+      "Posts": 8,
+      "Total": 44,
+      "ST": 6
+    },
+    {
       "Region": "WR",
       "ExamLevel": "Matriculation (10th)",
       "Posts": 11,
@@ -322,6 +387,13 @@
       "Posts": 21,
       "Total": 91,
       "ST": 6
+    },
+    {
+      "Region": "WR",
+      "ExamLevel": "Unspecified / Not Mentioned",
+      "Posts": 4,
+      "Total": 15,
+      "ST": 0
     }
   ],
   "st_by_region": {
@@ -338,5 +410,9 @@
   "max_st_region": "MPR",
   "max_st_value": 46,
   "records_count": 382,
-  "mismatch_rows": []
+  "mismatch_rows": [],
+  "exam_level_missing": {
+    "Posts": 44,
+    "Total": 303
+  }
 }

@@ -1,10 +1,11 @@
 # SSC Phase-XIV/2026 Vacancy Analysis (All Regions, All Categories)
 
-Generated on: 2026-04-24 13:41:16 UTC
+Generated on: 2026-04-30 09:44:53 UTC
 
 ## Data Integrity Checks
 - Total parsed posts: **382**
 - Category-sum consistency mismatches: **0**
+- Exam-level coverage check: **338 classified / 382 total posts**, remaining **44** shown as **Unspecified / Not Mentioned**
 
 ## Overall Vacancy Totals by Category
 
@@ -33,6 +34,7 @@ Generated on: 2026-04-24 13:41:16 UTC
 | Matriculation (10th) | 74 | 76 | 48 | 194 | 428 | 79 | 825 |
 | Higher Secondary (10+2) | 128 | 105 | 41 | 199 | 531 | 66 | 942 |
 | Graduation & Above | 136 | 129 | 74 | 211 | 443 | 76 | 933 |
+| Unspecified / Not Mentioned | 44 | 36 | 22 | 63 | 132 | 50 | 303 |
 
 ## Region with Highest ST Vacancies
 
@@ -70,30 +72,39 @@ Generated on: 2026-04-24 13:41:16 UTC
 | CR | Matriculation (10th) | 4 | 6 | 1 |
 | CR | Higher Secondary (10+2) | 25 | 296 | 14 |
 | CR | Graduation & Above | 7 | 30 | 5 |
+| CR | Unspecified / Not Mentioned | 2 | 2 | 0 |
 | ER | Matriculation (10th) | 8 | 35 | 2 |
 | ER | Higher Secondary (10+2) | 17 | 89 | 2 |
 | ER | Graduation & Above | 12 | 58 | 6 |
+| ER | Unspecified / Not Mentioned | 6 | 75 | 2 |
 | KKR | Matriculation (10th) | 11 | 32 | 1 |
 | KKR | Higher Secondary (10+2) | 12 | 51 | 1 |
 | KKR | Graduation & Above | 14 | 227 | 14 |
+| KKR | Unspecified / Not Mentioned | 5 | 14 | 0 |
 | MPR | Matriculation (10th) | 9 | 440 | 30 |
 | MPR | Higher Secondary (10+2) | 25 | 235 | 14 |
 | MPR | Graduation & Above | 4 | 73 | 2 |
+| MPR | Unspecified / Not Mentioned | 2 | 4 | 0 |
 | NER | Matriculation (10th) | 3 | 6 | 0 |
 | NER | Higher Secondary (10+2) | 6 | 13 | 1 |
 | NER | Graduation & Above | 31 | 200 | 15 |
+| NER | Unspecified / Not Mentioned | 5 | 32 | 4 |
 | NR | Matriculation (10th) | 11 | 94 | 4 |
 | NR | Higher Secondary (10+2) | 10 | 154 | 6 |
 | NR | Graduation & Above | 21 | 177 | 20 |
+| NR | Unspecified / Not Mentioned | 7 | 106 | 9 |
 | NWR | Matriculation (10th) | 4 | 65 | 7 |
 | NWR | Higher Secondary (10+2) | 2 | 3 | 0 |
 | NWR | Graduation & Above | 22 | 73 | 5 |
+| NWR | Unspecified / Not Mentioned | 5 | 11 | 1 |
 | SR | Matriculation (10th) | 13 | 32 | 0 |
 | SR | Higher Secondary (10+2) | 22 | 64 | 2 |
 | SR | Graduation & Above | 4 | 4 | 1 |
+| SR | Unspecified / Not Mentioned | 8 | 44 | 6 |
 | WR | Matriculation (10th) | 11 | 115 | 3 |
 | WR | Higher Secondary (10+2) | 9 | 37 | 1 |
 | WR | Graduation & Above | 21 | 91 | 6 |
+| WR | Unspecified / Not Mentioned | 4 | 15 | 0 |
 
 ## Full Tables: All Posts with Codes, Pay Level, and Category Vacancies (Region-wise)
 
